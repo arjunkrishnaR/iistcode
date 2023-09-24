@@ -25,23 +25,23 @@ h1 {
       margin: 10rem;
 
  }
-nav u1{ 
+nav ul{ 
     list-style-type: none;
     display: inline-flex;
     gap: 1rem;
     color:lightgray;
 }
 
-.incline{
+.inline{
   display: flex;
   gap: 3em;
   justify-content: space-evenly;
-  align-item: center;
+  align-items: center;
 } 
 
 .link-button{
     background-color: #ff6201;
-    text-decoratiom: none;
+    text-decoration: none;
     color: black;
     padding: 0.5rem 1rem;
     border-radius:3rem;
